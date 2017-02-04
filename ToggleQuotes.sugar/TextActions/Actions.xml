@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<action-recipes>
+	
+	<action category="toggle-quotes.root/toggle-quotes.action/0">
+		<title>Toggle Quotes</title>
+		<syntax-context>string.quoted, string.quoted > value</syntax-context>
+		<script>toggle-quotes.js</script>
+		<key-equivalent>command '</key-equivalent>
+	</action>
+
+</action-recipes>

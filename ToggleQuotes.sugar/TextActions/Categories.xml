@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<action-categories>
+	<category id="toggle-quotes.root" show="sub">
+		<title>Toggle Quotes</title>
+	</category>
+	<category id="toggle-quotes.action" show="inline separated"></category>
+</action-categories>
