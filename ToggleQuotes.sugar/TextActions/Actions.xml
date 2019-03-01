@@ -5,7 +5,7 @@
 		<title>Toggle Quotes</title>
 		<syntax-context>string.quoted, string.quoted > value</syntax-context>
 		<script>toggle-quotes.js</script>
-		<key-equivalent>command '</key-equivalent>
+		<key-equivalent>control '</key-equivalent>
 	</action>
 
 </action-recipes>

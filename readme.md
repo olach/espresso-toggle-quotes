@@ -10,7 +10,7 @@ This is a plugin for the [Espresso](https://espressoapp.com) code editor.
 
 ## Usage
 
-Place the cursor within a quoted string and press <kbd>cmd</kbd> <kbd>'</kbd> to toggle that string between single and double quotes.
+Place the cursor within a quoted string and press <kbd>control</kbd> <kbd>'</kbd> to toggle that string between single and double quotes.
 
 ## Installation
 
