@@ -1,7 +1,7 @@
 # ToggleQuotes.sugar for Espresso
 Toggle a single-quoted string to a double-quoted string, and vice versa.
 
-This is a plugin for MacRabbit's [Espresso](http://macrabbit.com/espresso/) code editor.
+This is a plugin for the [Espresso](https://espressoapp.com) code editor.
 
 ## Features
 
